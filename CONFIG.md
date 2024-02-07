@@ -60,8 +60,8 @@ NovelWriter
 - プロット
 - 拙作
 - 作劇
-- kakuyomu
-- syosetu
+- kakuyomu.jp
+- syosetu.com
 - novelup
 - pixiv.net/novel
 - alphapolis
