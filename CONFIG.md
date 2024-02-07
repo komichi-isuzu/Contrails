@@ -60,10 +60,16 @@ NovelWriter
 - プロット
 - 拙作
 - 作劇
+- カクヨム
 - kakuyomu.jp
+- なろう
 - syosetu.com
+- ノベプラ
+- ノベルアップ
+- ノベルアッププラス
 - novelup
 - pixiv.net/novel
+- アルファポリス
 - alphapolis
 - estar.jp/novels
 - novel
